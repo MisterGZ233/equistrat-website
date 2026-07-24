@@ -12,6 +12,7 @@
   --white: #ffffff;
   --muted: #607087;
   --line: rgba(7, 24, 45, 0.13);
+  --font-geist-mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
 }
 
 * { box-sizing: border-box; }
